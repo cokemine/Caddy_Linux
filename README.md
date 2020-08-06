@@ -20,27 +20,27 @@ Caddy v2编译版i386为本人手动编译，其他取自官方Release
 
 Caddy v1: 
 
-i386: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_linux_i386
+i386: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_linux_i386
 
-amd64: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_linux_amd64
+amd64: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_linux_amd64
 
-arm32v6: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_linux_arm6
+arm32v6: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_linux_arm6
 
-arm32v7: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_linux_arm7
+arm32v7: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_linux_arm7
 
-arm64v8: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_linux_arm64
+arm64v8: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_linux_arm64
 
 Caddy v2: 
 
-i386: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_v2_linux_i386
+i386: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_v2_linux_i386
 
-amd64: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_v2_linux_amd64
+amd64: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_v2_linux_amd64
 
-arm32v6: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_v2_linux_arm6
+arm32v6: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_v2_linux_arm6
 
-arm32v7: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_v2_linux_arm7
+arm32v7: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_v2_linux_arm7
 
-arm64v8: https://github.com/CokeMine/Caddy_Linux/releases/latest/caddy_v2_linux_arm64
+arm64v8: https://github.com/CokeMine/Caddy_Linux/releases/latest/download/caddy_v2_linux_arm64
 
 ## 感谢
 
